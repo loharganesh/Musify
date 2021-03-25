@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    Padding-->
+    <dimen name="containerPadding">25dp</dimen>
+
+    <!--    Margins-->
+    <dimen name="marginContainerStart">15dp</dimen>
+    <dimen name="marginContainerEnd">15dp</dimen>
+
+    <dimen name="verticalGutterSmall">5dp</dimen>
+    <dimen name="verticalGutterMedium">15dp</dimen>
+    <dimen name="verticalGutterLarge">25dp</dimen>
+
+    <dimen name="titleTextSize">14sp</dimen>
+    <dimen name="subtitleTextSize">14sp</dimen>
+
+</resources>
